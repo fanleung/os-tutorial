@@ -1,4 +1,8 @@
 os-tutorial
+
+introduction
+受本文档 和OSDev wiki的启发，创建者尝试为任何人提供简短的逐步自述文件和代码示例。此项目是一个针对熟悉低级计算的人的代码教程。例如，程序员对操作系统如何工作有好奇心，但没有时间或意志力从头到尾开始阅读Linux内核。
+
 ===========
 
 How to create an OS from scratch!
